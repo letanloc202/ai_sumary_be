@@ -1,0 +1,4 @@
+fastapi
+openai
+langchain_core
+uvicorn
